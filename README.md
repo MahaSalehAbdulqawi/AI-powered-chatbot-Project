@@ -1,42 +1,60 @@
-# AI-Powered Chatbot Project
+Al-Tazaj Customer Service Chatbot
 
-This repository contains the MIS272 coursework report for an assignment on the business application of AI-powered chatbots. The project focuses on how conversational AI can support customer service operations, improve response efficiency, and help organisations automate routine interactions while maintaining a more personalised customer experience.
+Description
 
-## Project focus
+This project involves developing an AI-powered customer service chatbot for Al-Tazaj, a Saudi Arabian fast-food restaurant chain, using Microsoft Copilot Studio. The chatbot helps customers access the restaurant menu, find branch locations, and track orders. Its goal is to improve customer service by providing quick responses and reducing the workload of human support agents. 
 
-The report examines the use of an AI chatbot as a business tool in a real-world service context. It looks at how chatbots can be used to:
+Features
 
-- answer frequently asked questions quickly and consistently
-- assist customers outside normal business hours
-- reduce repetitive work for human support staff
-- guide users to the correct service or department
-- improve customer engagement through faster communication
+Welcome Message: Greets users and presents available options.
 
-The assignment goes beyond a general discussion of AI by analysing how chatbot technology can create business value when implemented in a customer-facing environment.
+Show Menu: Provides a link to the restaurant menu.
 
-## What the report covers
+Find a Branch: Provides a link to Al-Tazaj branch locations.
 
-The report evaluates the business case for AI-powered chatbots and discusses the technical and operational factors involved in their use. Key areas covered include:
+Track My Order: Allows users to enter an order number and check its status.
 
-- the role of AI in modern business operations
-- the growing importance of chatbots in customer service
-- natural language processing and conversational interfaces
-- business benefits such as efficiency, responsiveness, and cost reduction
-- limitations including accuracy, user trust, and system design constraints
-- implementation considerations for organisations adopting chatbot systems
-- ethical and practical concerns related to AI-driven customer interaction
+Input Validation: Rejects invalid order numbers and displays an error message.
 
-This makes the project a business-focused analysis of chatbot adoption rather than a generic overview of AI.
 
-## Repository contents
+Technologies Used
 
-- `README.md` — project summary and repository context
-- `MIS272_ChatbotAssignment_Semester 2_Year2025_Maha_Saleh. _2025 (1).pdf` — the main MIS272 assignment report documenting the chatbot analysis and business case
+Microsoft Copilot Studio: Platform used to build the chatbot.
 
-## Academic context
+Artificial Intelligence (AI) and Natural Language Processing (NLP): Support automated customer interactions.
 
-This repository is part of the coursework for MIS272: Artificial Intelligence in Business. The work is intended for academic review, documentation, and submission purposes. It reflects a structured business analysis of AI-powered chatbot systems and their relevance to modern organisational operations.
 
-## Intended use
+File Description
 
-This repository is best understood as a report-based academic project focused on the practical business application of AI chatbots. It is designed to document the research, analysis, and conclusions of the MIS272 assignment rather than to serve as a software development project repository.
+MIS272_ChatbotAssignment_Semester 2_Year2025_Maha_Saleh.pdf: Project report documenting the business problem, proposed solution, chatbot implementation, conversation flows, example responses, limitations, and future improvements.
+
+
+Limitations
+
+Limited ability to understand complex or unexpected questions.
+
+Relies on predefined responses and workflows.
+
+May experience technical issues or integration failures.
+
+
+Future Improvements
+
+Add multilingual support.
+
+Integrate directly with online ordering systems.
+
+Improve adaptability using machine learning.
+
+Introduce voice recognition.
+
+
+Project Information
+
+Course: MIS272
+
+University: King Abdulaziz University
+
+Semester: Second Semester, 2025
+
+Development Platform: Microsoft Copilot Studio
