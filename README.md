@@ -1,32 +1,35 @@
 # AI-Powered Chatbot Project
 
-This repository contains the materials for the MIS272 assignment on Artificial Intelligence in Business. The project focuses on the use of AI-powered chatbot technology in a business context and documents the assignment work, research, and coursework output.
+This repository contains the coursework report for the MIS272 assignment in Artificial Intelligence in Business. The project focuses on how AI-powered chatbots can be applied in a business setting to improve customer interaction, automate routine tasks, and support decision-making.
 
-## Project Overview
+## Project Focus
 
-This project is designed for academic study and assessment. It explores how AI, especially chatbots, can support business functions, improve customer interaction, and contribute to decision-making or service delivery in a practical setting.
+The assignment explores the use of AI chatbots as a business tool, with emphasis on:
 
-## Objectives
+- understanding the role of AI in modern business operations
+- evaluating how chatbots can support customer service and engagement
+- examining the benefits, limitations, and implementation considerations of chatbot systems
+- presenting a structured academic analysis of a practical AI business application
 
-- Understand the role of AI in business environments
-- Explore chatbot applications in real-world business scenarios
-- Apply AI concepts to an assignment-based project
-- Present the project findings and coursework clearly and professionally
+## What Is Included in This Repository
+
+This repository is primarily a report-based project and contains:
+
+- the final assignment report in PDF format
+- the academic analysis and discussion of AI-powered chatbot applications in a business context
+- supporting material relevant to the MIS272 coursework
+
+The report addresses the business relevance of chatbot technology, its application in real-world scenarios, and the strategic considerations involved in adopting AI-driven solutions.
 
 ## Repository Contents
 
-### File Description
+- `README.md` — overview of the project and repository purpose
+- `MIS272_ChatbotAssignment_Semester 2_Year2025_Maha_Saleh. _2025 (1).pdf` — the main MIS272 coursework report covering the AI-powered chatbot assignment
 
-- `README.md` — Project overview and repository information
-- `MIS272_ChatbotAssignment_Semester 2_Year2025_Maha_Saleh. _2025 (1).pdf` — Main assignment document containing the project details, coursework materials, and research related to the AI-powered chatbot topic
+## Scope of the Project
 
-## Important Information
+This is an academic project rather than a software engineering repository. It is designed to document the research, analysis, and written findings completed for the MIS272 course, rather than to provide a full application codebase or production-ready system.
 
-- This is a university assignment repository for the course MIS272
-- The project is focused on AI in Business and chatbot technology
-- The repository is primarily documentation-based and academic in nature
-- It does not currently include a full software application or source code project structure
+## Intended Use
 
-## Notes
-
-This repository is intended to support coursework and research related to AI-powered chatbot applications in a business setting. It is best viewed as an academic assignment project rather than a deployed product.
+This repository is intended for coursework review, academic submission, and documentation of the assigned AI in business topic. It is best understood as a report-based assignment repository focused on the application of AI chatbot technology in a business environment.
